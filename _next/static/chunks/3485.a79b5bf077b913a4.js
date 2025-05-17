@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3485],{33485:function(n,t,e){"use strict";e.r(t),e.d(t,{default:function(){return s}});var r=e(85893),o=e(95094),u=e.n(o);function s(n){let{children:t}=n;return(0,r.jsx)("div",{className:u().root,children:t})}},95094:function(n){n.exports={root:"style_root__En_yQ"}}}]);
